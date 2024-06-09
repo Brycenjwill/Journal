@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\bryce\\source\\repos\\myscripturejournal\\myscripturejournal\\pages\\entries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\entries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\bryce\\source\\repos\\myscripturejournal\\myscripturejournal\\pages\\entries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\entries\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\bryce\\source\\repos\\myscripturejournal\\myscripturejournal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\bryce\\source\\repos\\myscripturejournal\\myscripturejournal\\migrations\\20240608224839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\migrations\\20240608224839_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|c:\\users\\bryce\\source\\repos\\myscripturejournal\\myscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{168B27F5-F030-4428-B107-85CAAD69405B}|MyScriptureJournal\\MyScriptureJournal.csproj|solutionrelative:myscripturejournal\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Entries\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Entries\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Entries\\Index.cshtml.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Entries\\Index.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAzwEUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:41:53.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Entries\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Entries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Entries\\Index.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Entries\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T00:40:51.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Models\\SeedData.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:07:04.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyScriptureJournal\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T23:44:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240608224839_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Migrations\\20240608224839_InitialCreate.cs",
+              "RelativeDocumentMoniker": "MyScriptureJournal\\Migrations\\20240608224839_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bryce\\source\\repos\\MyScriptureJournal\\MyScriptureJournal\\Migrations\\20240608224839_InitialCreate.cs",
+              "RelativeToolTip": "MyScriptureJournal\\Migrations\\20240608224839_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T22:48:39.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
